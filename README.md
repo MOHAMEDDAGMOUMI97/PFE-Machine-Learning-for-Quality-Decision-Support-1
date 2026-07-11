@@ -56,7 +56,6 @@ Technologies used
 
 ##  Author
 
-_Ahmed ben hssain
+Ahmed ben hssain / 
 ahmedbenhssain534@gmail.com
 
----
